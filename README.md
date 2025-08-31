@@ -1,14 +1,21 @@
-# movie_recomender_NLP
-# 🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System 🍿
 
-This is a **Movie Recommendation Web App** built with **Streamlit**.  
-It suggests the top 10 most similar movies based on your favorite movie.
+A simple and **friendly movie recommendation app** built with **Streamlit**.  
+It suggests the top 10 movies similar to your favorite movie.
 
 ---
 
-## 🚀 How to run locally
+## 🚀 Features
+- 🎥 Enter a movie name
+- 🍿 Get top 10 recommendations
+- 🎨 Clean UI with icons and modern design
+- ⚡ Runs entirely in memory (no saved pickle files)
 
-1. Clone this repository:
+---
+
+## 🛠️ Setup & Run
+
+1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/movie-recommender.git
-   cd movie-recommender
+   git clone https://github.com/yourusername/movie-recommendation-streamlit.git
+   cd movie-recommendation-streamlit
