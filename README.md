@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System 🍿
 
-A simple and **friendly movie recommendation app** built with **Streamlit**.  
+A simple and **friendly movie recommendation app** built with **Streamlit**.
 It suggests the top 10 movies similar to your favorite movie.
 
 ---
